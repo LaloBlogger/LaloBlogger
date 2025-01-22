@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I have no idea how to code
+🌱 I’m currently learning how to set up my first webpage
+I am using Github to learn how to do it. 
 <!--
 **LaloBlogger/LaloBlogger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
